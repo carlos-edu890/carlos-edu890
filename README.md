@@ -2,8 +2,13 @@
 
 <div>
   <a href="https://github.com/carlos-edu890" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-edu890&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-edu890&layout=compact&langs_count=5&show_icons=true&theme=radical" /> 
+  <div>
+    <a href="https://git.io/streak-stats"><img height="200em" src="https://streak-stats.demolab.com?user=carlos-edu890&theme=dark" alt="GitHub Streak" /> 
+  </div>
+  <div>
+    <img height="200em" src="https://github-stats-extended.vercel.app/api/top-langs?username=carlos-edu890&layout=compact&langs_count=5&theme=vision-friendly-dark" />
+  </div>
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-edu890&layout=compact&langs_count=5&show_icons=true&theme=radical" /> -->
 </div>
 
 <div>
