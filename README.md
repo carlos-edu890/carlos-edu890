@@ -18,6 +18,7 @@
   </div>
 
    <!-- Primeiro stat (Streak) -->
+  <!--
   <div style="margin: 10px 0;">
     <img
       height="200em"
@@ -26,6 +27,7 @@
       alt="GitHub Streak"
     />
   </div>
+  -->
 
   <!-- Ícones das tecnologias (centralizados) -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
